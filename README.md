@@ -81,6 +81,11 @@ Neste projeto pratiquei:
 
 ---
 
+## 🌐 Visualização do projeto:
+🔗 https://lnkd.in/emt-AKaf
+
+---
+
 ## 👨‍💻 Autor
 
 Desenvolvido por **Elisvaldo Braga**
