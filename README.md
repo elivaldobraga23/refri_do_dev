@@ -81,8 +81,10 @@ Neste projeto pratiquei:
 
 ---
 
-## 🌐 Visualização do projeto:
-🔗 https://lnkd.in/emt-AKaf
+## 🌐 Acesse o projeto
+
+👉 Clique aqui para visualizar o projeto:  
+**[LINK DO PROJETO AQUI](https://elisvaldobraga23.github.io/refri_do_dev/)**
 
 ---
 
