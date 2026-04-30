@@ -84,7 +84,7 @@ Neste projeto pratiquei:
 ## 🌐 Acesse o projeto
 
 👉 Clique aqui para visualizar o projeto:  
-**[LINK DO PROJETO AQUI](https://elisvaldobraga23.github.io/refri_do_dev/)**
+**[Ver Projeto](https://elisvaldobraga23.github.io/refri_do_dev/)**
 
 ---
 
